@@ -1,0 +1,33 @@
+<h1>Projects</h1>
+<br>
+<br>
+<h2>HELMET DETECTION SYSTEM</h2>
+<br>
+<p>The annotated images are given as input to YOLOv3 model to 
+train for the custom classes. The weights generated after 
+training are used to load the model. Once this is done, an 
+image is given as input. </p>
+<p>The model detects all the five classes 
+trained. From this we obtain the information regarding 
+person riding motorbike. </p>
+
+<br>
+<br>
+
+<h2>SALARY PREDICTION SYSTEM</h2>
+<br>
+<p>salary prediction using the machine learning algorithm. 
+This model predicts the salary of the employee based on the year of experience of employee.</p>
+ 
+<p>This is a regression problem which is solved using a LinearRegression.</p>
+
+<br>
+<br>
+
+<h2>STUDENT MANAGEMENT SYSTEM</h2>
+<br>
+<p>Schools and Universities are the foundation of knowledge and an educational body on which students rely upon.
+They need to maintain a proper database of its students to keep all the updated records and easily share information with students.</p>
+ 
+<p>it's It's a desktop application that using Gui .It uses DBMS concepts to properly maintain all 
+student details .</p>
